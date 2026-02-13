@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmif_docs=self.webpackChunkmif_docs||[]).push([[3490],{3490(e,s,c){c.d(s,{createInfoServices:()=>f.v});var f=c(1885);c(7960)}}]);
