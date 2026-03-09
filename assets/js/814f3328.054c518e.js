@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmif_docs=self.webpackChunkmif_docs||[]).push([[7472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"DeepSeek R1 671B on AMD MI300X GPUs: Maximum throughput","permalink":"/blog/2025/11/11/deepseek-r1-671b-on-amd-mi300x-gpus-maximum-throughput","unlisted":false,"date":"2025-11-11T00:00:00.000Z"}]}')}}]);
